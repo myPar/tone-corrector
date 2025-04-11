@@ -16,7 +16,7 @@
 папка **baselines**:
 - **FastText_clean.ipynb** - пайплайн обучения для fasttext
 
-- **ru-BERT_fine_tune_clear.ipynb** - пайплайн обучения для 
+- **ru-BERT_fine_tune_clear.ipynb** - пайплайн обучения для rubert-base-cased-sentiment
 
 - **frida_baseline.py** - готовый скрипт обучения для frida-классификатора на ноде с GPU
 
