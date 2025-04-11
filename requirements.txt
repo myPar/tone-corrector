@@ -1,0 +1,6 @@
+pybase64
+pydantic
+torch
+transformers
+fasttext==0.9.3
+numpy==1.26.0
