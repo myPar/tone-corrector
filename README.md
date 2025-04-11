@@ -9,6 +9,7 @@
 #### Ссылки:
 
 * демо - https://cricles-demo-detoxi.hf.space
+* репа на HF с кодом и весами: https://huggingface.co/spaces/Cricles/demo_detoxi/tree/main
 
 #### Ноутбуки
 
